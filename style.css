@@ -3,11 +3,27 @@
 .first-section{
   background-color: #264653;
 }
-.h1-size{
+body{
   font-family: 'Poppins', sans-serif;
 }
 .button-color{
   background-color: #E76F51;
   color: whitesmoke;
   padding: 10px 50px;
+}
+.img-gray{
+  filter: grayscale(100%);
+}
+.font-orange{
+  color: rgb(223, 59, 0);
+  font-weight: 500;
+}
+.img-rounded{
+  border-radius: 50%;
+}
+.not-filled{
+  background: none;
+}
+a{
+  text-decoration: none;
 }
