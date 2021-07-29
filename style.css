@@ -27,3 +27,28 @@ body{
 a{
   text-decoration: none;
 }
+.first-section{
+  font-weight: 300;
+  font-size: 16px;
+  color: #E0E0E0;
+}
+.third-margin{
+  margin-top: 150px;
+}
+.color-client{
+  color: #E76F51;
+}
+.client-text{
+  font-weight: 400;
+  font-size: 16px;
+  color: #6C6C6C;
+}
+h6{
+  color: #23A6F0;
+  font-weight: 600;
+  font-size: 14px;
+  margin: 10px;
+}
+.font-orange2{
+  color: #E77C40;
+}
